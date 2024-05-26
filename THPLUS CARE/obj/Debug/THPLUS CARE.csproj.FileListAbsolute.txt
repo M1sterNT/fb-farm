@@ -1,0 +1,51 @@
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\THPLUS CARE.exe.config
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\THPLUS CARE.exe
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\THPLUS CARE.pdb
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\obj\Debug\THPLUS CARE.csproj.AssemblyReference.cache
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\obj\Debug\THPLUS_CARE.Main.resources
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\obj\Debug\THPLUS_CARE.Properties.Resources.resources
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\obj\Debug\THPLUS CARE.csproj.GenerateResource.cache
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\obj\Debug\THPLUS CARE.csproj.CoreCompileInputs.cache
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\obj\Debug\THPLUS CARE.exe
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\obj\Debug\THPLUS CARE.pdb
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\WebDriver.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\WebDriver.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\obj\Debug\THPLUS C.91C65486.Up2Date
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\Google.Protobuf.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\MySql.Data.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.Buffers.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.IO.Pipelines.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.Memory.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\ZstdSharp.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\Google.Protobuf.pdb
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\Google.Protobuf.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\MySql.Data.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.Buffers.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.IO.Pipelines.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.Memory.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\WebDriver.Support.dll
+C:\Users\SDKSDK\source\repos\THPLUS CARE\THPLUS CARE\bin\Debug\WebDriver.Support.xml
